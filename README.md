@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Liukeis
-- 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently studyng a master at Sorbonne Université à Paris in machine learning
-- 💞️ I’m looking to gain experience in the field of machine learning and data sicence by doing some interships with a company by the end os next year
+- 👀 I’m interested in cool stuff like machine learning and deep learning
+- 🌱 I have a M2 master by Sorbonne Université in Paris in Machine Learning and AI
+- 💞️ I have an intership in computer vision specialized in image segmantation of brain tumors
 
 <!---
 Liukeis/Liukeis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
