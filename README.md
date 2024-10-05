@@ -1,9 +1,12 @@
-- 👋 Hi, I’m Lucas Rincon de la Rosa
-- 👀 I’m interested in cool stuff like machine learning and deep learning
-- Strong defender of Open Science and Open source code
-- Currently PhD student in Bioinformatics
-- Computer vision internship in image segmentation
-- 🌱 M2 master by Sorbonne Université in Paris in Machine Learning and AI
+:wave: Hi, I’m Lucas Rincon de la Rosa
+
+:microscope: PhD student in Bioinformatics
+
+:eyes: I’m interested in cool stuff like machine and deep learning
+
+:page_facing_up: Strong defender of Open Science and Open source code
+
+:student: M2 master by Sorbonne Université in Paris in Machine Learning and AI
 
 # About me
 Currently PhD student at the Paris Brain Institute (ICM), specializing in Genetics and Tumor Development. My research primarily focuses on Primary Central Nervous Lymphomas (PCNSL), where I leverage both image and omics data. Drawing on my in mathematics and computer science, I employ applied AI techniques to address challenges in patient diagnosis. My role at the ICM does not only fulﬁll my passion for research and applied mathematics but also provided me with invaluable opportunities to apply these skills to the dynamic and important landscape of medical healthcare.
