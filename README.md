@@ -21,4 +21,4 @@ Abstract: In this study we introduce a novel deep learning model for denoising s
 
 # Contact
 
-For more detailed information, please visit my website at [lucas-rdlr.github.io](lucas-rdlr.github.io).
+For more detailed information, please visit my website at [link](https://lucas-rdlr.github.io/).
